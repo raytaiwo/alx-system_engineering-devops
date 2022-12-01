@@ -7,3 +7,4 @@ ls -la to Display current directory contents
 mkdir to make directories
 mv to move files
 rm to delete files
+rm to delete files
