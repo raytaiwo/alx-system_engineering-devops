@@ -5,3 +5,4 @@ ls -l to Display current directory contents in a long format
 ls -a to Display Hidden files
 ls -la to Display current directory contents
 mkdir to make directories
+mv to move files
